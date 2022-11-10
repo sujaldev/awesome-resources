@@ -1,17 +1,27 @@
 # Awesome Resources
 
-Randome resources I found on the internet.
+Helpful resources on the internet on interesting topics.
 
+---
 
-# Web Browsers
+## Table of contents
+
+- [Compilers](#compilers)
+- [Web Browsers](#web-browsers)
+- [Version Control](#version-control)
+
+---
+
+### Compilers
+
+- [craftinginterpreters.com](https://craftinginterpreters.com/contents.html)
+
+### Version Control
+
+- [wyag.thb.lt](https://wyag.thb.lt/)
+
+### Web Browsers
 
 - [browser.engineering](https://browser.engineering/)
 - [htmlparser.info](https://htmlparser.info/)
-
-# Compilers
-- [craftinginterpreters.com](https://craftinginterpreters.com/contents.html)
-
-
-# Version Control
-- [wyag.thb.lt](https://wyag.thb.lt/)
-
+- [HTML standard](https://html.spec.whatwg.org/multipage/)
