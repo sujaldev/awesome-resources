@@ -29,5 +29,6 @@ Helpful resources on the internet on interesting topics.
 ### Web Browsers
 
 - [browser.engineering](https://browser.engineering/)
+- [Matt Brubeck's Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [htmlparser.info](https://htmlparser.info/)
 - [HTML standard](https://html.spec.whatwg.org/multipage/)
