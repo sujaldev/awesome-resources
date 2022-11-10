@@ -7,6 +7,7 @@ Helpful resources on the internet on interesting topics.
 ## Table of contents
 
 - [Compilers](#compilers)
+- [Compression](#compression)
 - [Operating Systems](#operating-systems)
 - [Web Browsers](#web-browsers)
 - [Version Control](#version-control)
@@ -16,6 +17,10 @@ Helpful resources on the internet on interesting topics.
 ### Compilers
 
 - [craftinginterpreters.com](https://craftinginterpreters.com/contents.html)
+
+### Compression
+
+- [Google's Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) (video playlist)
 
 ### Operating Systems
 
