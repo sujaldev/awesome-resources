@@ -8,6 +8,7 @@ Helpful resources on the internet on interesting topics.
 
 - [Compilers](#compilers)
 - [Compression](#compression)
+- [Computers From Scratch](#computers-from-scratch)
 - [Operating Systems](#operating-systems)
 - [Web Browsers](#web-browsers)
 - [Version Control](#version-control)
@@ -21,6 +22,17 @@ Helpful resources on the internet on interesting topics.
 ### Compression
 
 - [Google's Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) (video playlist)
+
+### Computers From Scratch
+
+Like [LFS](https://www.linuxfromscratch.org/) but harder.
+
+- [Nand2tetris](https://www.nand2tetris.org/) \
+  As the name suggests you'll be going on a journey which starts at nand gates and ends at the game of tetris.
+  The book for the above course is named "The Elements of Computing Systems: Building a Modern Computer from First
+  Principles".
+- [But How Do It Know?](http://www.buthowdoitknow.com/)\
+  Although this one does not touch on implementing any software, it is a very good book to get started.
 
 ### Operating Systems
 
