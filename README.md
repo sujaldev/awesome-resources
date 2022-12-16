@@ -22,6 +22,7 @@ Helpful resources on the internet on interesting topics.
 ### Compression
 
 - [Google's Compressor Head](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H) (video playlist)
+- [Shlomif's Public Notes](https://github.com/shlomif/shlomif-public-notes/blob/master/notes/compression.md)
 
 ### Computers From Scratch
 
