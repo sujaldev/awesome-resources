@@ -12,6 +12,7 @@ Helpful resources on the internet on interesting topics.
 - [Operating Systems](#operating-systems)
 - [Web Browsers](#web-browsers)
 - [Version Control](#version-control)
+- [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -51,3 +52,7 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 - [Matt Brubeck's Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [htmlparser.info](https://htmlparser.info/)
 - [HTML standard](https://html.spec.whatwg.org/multipage/)
+
+### Miscellaneous
+
+- [Start Your Own ISP](https://startyourownisp.com/)
