@@ -10,6 +10,7 @@ Helpful resources on the internet on interesting topics.
 - [Compilers](#compilers)
 - [Compression](#compression)
 - [Computers From Scratch](#computers-from-scratch)
+- [Mail Servers](#mail-servers)
 - [Operating Systems](#operating-systems)
 - [Web Browsers](#web-browsers)
 - [Version Control](#version-control)
@@ -41,6 +42,10 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
   Principles".
 - [But How Do It Know?](http://www.buthowdoitknow.com/)\
   Although this one does not touch on implementing any software, it is a very good book to get started.
+
+### Mail Servers
+
+- [The ISPmail guide](https://workaround.org)
 
 ### Operating Systems
 
