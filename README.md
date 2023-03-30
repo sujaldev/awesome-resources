@@ -26,6 +26,7 @@ Helpful resources on the internet on interesting topics.
 ### Compilers
 
 - [craftinginterpreters.com](https://craftinginterpreters.com/contents.html)
+- [Let's make a Teeny Tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
 
 ### Compression
 
