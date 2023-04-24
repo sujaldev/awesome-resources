@@ -60,8 +60,10 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 
 ### Web Browsers
 
-- [browser.engineering](https://browser.engineering/)
-- [Matt Brubeck's Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [__Python:__ browser.engineering](https://browser.engineering/)
+- [__Rust:__ Matt Brubeck's Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [__Rust:__ Viet Hung's Browser from Scratch](https://viethung.space/blog/2020/05/29/Browser-from-Scratch-Introduction/)
+- [How browsers work](https://web.dev/howbrowserswork/)
 - [htmlparser.info](https://htmlparser.info/)
 - [HTML standard](https://html.spec.whatwg.org/multipage/)
 
