@@ -74,3 +74,4 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 
 ### Miscellaneous
 
+- [build-your-own.org](https://build-your-own.org/)
