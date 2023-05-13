@@ -12,6 +12,7 @@ Helpful resources on the internet on interesting topics.
 - [Computers From Scratch](#computers-from-scratch)
 - [Mail Servers](#mail-servers)
 - [Operating Systems](#operating-systems)
+  - [Graphics](#graphics)
 - [Web Browsers](#web-browsers)
 - [Version Control](#version-control)
 - [Miscellaneous](#miscellaneous)
@@ -53,6 +54,10 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 - [wiki.osdev.org](https://wiki.osdev.org)
 - [os.phil-opp.com](https://os.phil-opp.com/)
 - [Writing a Simple Operating System — from Scratch by Nick Blundell](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
+#### Graphics
+
+- [Build Your Own Windowing System](https://jmarlin.github.io/wsbe/) [Source](https://github.com/JMarlin/wsbe)
 
 ### Version Control
 
