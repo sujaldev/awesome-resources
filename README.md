@@ -74,4 +74,3 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 
 ### Miscellaneous
 
-- [Start Your Own ISP](https://startyourownisp.com/)
