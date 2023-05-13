@@ -57,7 +57,7 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 
 #### Graphics
 
-- [Build Your Own Windowing System](https://jmarlin.github.io/wsbe/) [Source](https://github.com/JMarlin/wsbe)
+- [Build Your Own Windowing System](https://jmarlin.github.io/wsbe/)
 
 ### Version Control
 
