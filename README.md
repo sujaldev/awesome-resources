@@ -28,6 +28,7 @@ Helpful resources on the internet on interesting topics.
 
 - [craftinginterpreters.com](https://craftinginterpreters.com/contents.html)
 - [Let's make a Teeny Tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
+- [Writing a C compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 
 ### Compression
 
