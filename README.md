@@ -7,7 +7,7 @@ Helpful resources on the internet on interesting topics.
 ## Table of contents
 
 - [Becoming an ISP](#becoming-an-isp)
-- [Build your own Router/Firewall](#build-your-own-router-firewall)
+- [Build your own Router/Firewall](#build-your-own-routerfirewall)
 - [Compilers](#compilers)
 - [Compression](#compression)
 - [Computers From Scratch](#computers-from-scratch)
