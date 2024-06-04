@@ -7,6 +7,7 @@ Helpful resources on the internet on interesting topics.
 ## Table of contents
 
 - [Becoming an ISP](#becoming-an-isp)
+- [Build your own Router/Firewall](#build-your-own-router-firewall)
 - [Compilers](#compilers)
 - [Compression](#compression)
 - [Computers From Scratch](#computers-from-scratch)
@@ -23,6 +24,10 @@ Helpful resources on the internet on interesting topics.
 
 - [Start your own wireless ISP](https://startyourownisp.com)
 - [Creating An Autonomous System For Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
+
+### Build your own Router/Firewall
+
+- [OpenBSD Router Guide](https://openbsdrouterguide.net/)
 
 ### Compilers
 
