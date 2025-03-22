@@ -50,6 +50,7 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
   Principles".
 - [But How Do It Know?](http://www.buthowdoitknow.com/)\
   Although this one does not touch on implementing any software, it is a very good book to get started.
+- [Project Oberon](https://www.projectoberon.net/)
 
 ### Mail Servers
 
