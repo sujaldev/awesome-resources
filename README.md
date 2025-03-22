@@ -61,6 +61,8 @@ Like [LFS](https://www.linuxfromscratch.org/) but harder.
 - [os.phil-opp.com](https://os.phil-opp.com/)
 - [Writing a Simple Operating System — from Scratch by Nick Blundell](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+- [Operating Systems in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/)
+- [The little book about OS development](https://littleosbook.github.io/)
 
 #### Graphics
 
